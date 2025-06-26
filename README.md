@@ -2,8 +2,6 @@
 
 A beautiful, modern full-stack web application for browsing and downloading photos and videos from Pexels. Built with Go (Gin) backend and React TypeScript frontend.
 
-![Pexels Gallery](https://via.placeholder.com/800x400/667eea/ffffff?text=Pexels+Gallery)
-
 ## 🌟 Features
 
 ### 📸 Photo Gallery
